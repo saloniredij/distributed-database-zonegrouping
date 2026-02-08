@@ -4,7 +4,11 @@
   "description": "*A JunoDB-inspired interactive simulator*",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node src/core/demo.ts"
+    "start": "ts-node src/core/demo.ts",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "demo": "ts-node src/core/demo.ts"
   },
   "repository": {
     "type": "git",
