@@ -1,0 +1,34 @@
+{
+  "name": "distributed-database-zonegrouping",
+  "version": "1.0.0",
+  "description": "*A JunoDB-inspired interactive simulator*",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/core/demo.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saloniredij/distributed-database-zonegrouping.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/saloniredij/distributed-database-zonegrouping/issues"
+  },
+  "homepage": "https://github.com/saloniredij/distributed-database-zonegrouping#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.2",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "@vitejs/plugin-react": "^5.1.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  }
+}
