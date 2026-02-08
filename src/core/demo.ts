@@ -1,4 +1,4 @@
-import { ZoneGridSimulator } from "./Simulator";
+import { ZoneGridSimulator } from "./Simulator.ts";
 
 const sim = new ZoneGridSimulator({
   zones: 5,

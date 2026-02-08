@@ -1,7 +1,7 @@
 // src/core/simulator.ts
 
-import { canRead, canWrite, validateQuorum, type QuorumConfig } from "./quorum";
-import { placeKey, type PlacementConfig, type Placement } from "./mapper";
+import { canRead, canWrite, validateQuorum, type QuorumConfig } from "./quorum.ts";
+import { placeKey, type PlacementConfig, type Placement } from "./mapper.ts";
 
 export type NodeState = "UP" | "DOWN";
 
