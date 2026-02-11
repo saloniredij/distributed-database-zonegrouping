@@ -1,3 +1,5 @@
+# Hosted App: https://zonegrouping.vercel.app/
+
 # ZoneGrid Simulator — Visualizing Zone Grouping in Distributed Databases  
 *A JunoDB-inspired interactive simulator*
 
